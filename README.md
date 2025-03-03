@@ -3,7 +3,7 @@ TagAPI library port for C#
 ## Platform support
 |   |Windows|Linux|MacOS X*|Other
 |---|---|---|---|---|
-|Development status|0,000...1%|-|-|-|
+|Development status|0,001%|-|-|-|
 |Support likeliness|100%|High probability|Close to null|No support planned|
 |Build status|🔴|-|-|-|
 
